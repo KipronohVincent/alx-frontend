@@ -154,8 +154,3 @@ What I learnt from this project:
 
 ### [34. Expiration date](./34-ssl_expiration.png)
 * Go to https://dev-tools.hbtn.info/
-
----
-
-## Author
-* **Felipe Satizabal** - [felipesv](https://github.com/felipesv)
