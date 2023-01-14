@@ -393,3 +393,6 @@ I used the following starter HTML file for your project.
     </footer>
   </body>
 </html>
+
+## End goal of the project
+![](https://github.com/Cristhian-Carbonell/holbertonschool-web_front_end/blob/main/0x02-CSS_advanced/images/index.png?raw=true)
